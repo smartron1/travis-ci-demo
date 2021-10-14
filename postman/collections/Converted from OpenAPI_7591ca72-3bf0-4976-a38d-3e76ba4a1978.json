@@ -1,0 +1,16 @@
+{
+    "info": {
+        "_postman_id": "124788b5-3363-4413-a161-c0bc0175f788",
+        "name": "Converted from OpenAPI",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [],
+    "variable": [
+        {
+            "id": "baseUrl",
+            "key": "baseUrl",
+            "value": "/",
+            "type": "string"
+        }
+    ]
+}
