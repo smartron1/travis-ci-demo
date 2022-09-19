@@ -1,0 +1,36 @@
+id = b4d29e45-4b2b-4cf7-ab56-d8b6d24b0c7e
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"23242741-124788b5-3363-4413-a161-c0bc0175f788","path":"Converted from OpenAPI_7591ca72-3bf0-4976-a38d-3e76ba4a1978.json","metaData":{}}
+files[] = {"id":"23242741-151ed5c7-296f-4f88-9426-29dbfc1df16b","path":"Integrations Platform Internal #blueprint_338da7d0-3b52-449f-bf67-c8c98d3b3a0c.json","metaData":{}}
+files[] = {"id":"23242741-ec724d99-8509-49b7-9245-941a3d29c788","path":"Integrations Platform Public #blueprint Copy(1).json","metaData":{}}
+files[] = {"id":"23242741-b569a671-3cfb-4a08-b16a-0d7fa257ddf8","path":"Integrations Platform Public #blueprint Copy(10).json","metaData":{}}
+files[] = {"id":"23242741-72375981-5b09-4e98-aade-0a47f64c98d1","path":"Integrations Platform Public #blueprint Copy(11).json","metaData":{}}
+files[] = {"id":"23242741-19d2d283-9c76-465d-bd38-5d97a468c382","path":"Integrations Platform Public #blueprint Copy(12).json","metaData":{}}
+files[] = {"id":"23242741-0aeabfa2-b8d6-47ba-8c2a-eb6b9f45a729","path":"Integrations Platform Public #blueprint Copy(13).json","metaData":{}}
+files[] = {"id":"23242741-65b39bf3-6e5e-4e61-a0f9-24f19f4a3b6e","path":"Integrations Platform Public #blueprint Copy(14).json","metaData":{}}
+files[] = {"id":"23242741-4c8121a6-eb19-4607-8553-b69f249e8aaf","path":"Integrations Platform Public #blueprint Copy(15).json","metaData":{}}
+files[] = {"id":"23242741-2ee6c874-1572-464f-b5e4-cc1a2f2abf2e","path":"Integrations Platform Public #blueprint Copy(16).json","metaData":{}}
+files[] = {"id":"23242741-51eb594a-3584-4a62-a772-ec2bbc399d69","path":"Integrations Platform Public #blueprint Copy(17).json","metaData":{}}
+files[] = {"id":"23242741-8c63f27d-d8f4-4f64-a13f-5fb9b4c0329f","path":"Integrations Platform Public #blueprint Copy(18).json","metaData":{}}
+files[] = {"id":"23242741-ff5a2771-1df7-44ed-82ce-b366a4b4873a","path":"Integrations Platform Public #blueprint Copy(2).json","metaData":{}}
+files[] = {"id":"23242741-6a0e5447-1fd4-4e16-b44a-6c6eb2bee386","path":"Integrations Platform Public #blueprint Copy(3).json","metaData":{}}
+files[] = {"id":"23242741-6d963e82-d16c-43ce-bf51-da3bafa90951","path":"Integrations Platform Public #blueprint Copy(4).json","metaData":{}}
+files[] = {"id":"23242741-cd89126c-7f8a-479a-b5c7-d372426b8f86","path":"Integrations Platform Public #blueprint Copy(5).json","metaData":{}}
+files[] = {"id":"23242741-a448857d-0b8a-42a7-8c91-eb754ad8a0c8","path":"Integrations Platform Public #blueprint Copy(6).json","metaData":{}}
+files[] = {"id":"23242741-44d94675-db2e-4cd9-9abc-ebc39dc09da2","path":"Integrations Platform Public #blueprint Copy(7).json","metaData":{}}
+files[] = {"id":"23242741-cb3581e4-2ae5-4b6e-b827-6338c08f7ea9","path":"Integrations Platform Public #blueprint Copy(8).json","metaData":{}}
+files[] = {"id":"23242741-f46f6a38-31dd-43a4-8a87-338527fc4e87","path":"Integrations Platform Public #blueprint Copy(9).json","metaData":{}}
+files[] = {"id":"23242741-7b110ae9-5817-4396-b24a-d1077d6e7b73","path":"Integrations Platform Public #blueprint Copy.json","metaData":{}}
+files[] = {"id":"23242741-30b0ed13-3dbb-4e40-b0e4-42417fe79843","path":"Integrations Platform Public #blueprint_4f41e039-2f17-4178-8a80-91c44347baab.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"schema.yaml","metaData":{}}
+
+[relations.apiDefinition.metaData]
